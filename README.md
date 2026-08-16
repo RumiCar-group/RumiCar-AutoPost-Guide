@@ -13,7 +13,10 @@ sibling projects
 [PhotoStrip](https://github.com/RumiCar-group/RumiCar-PhotoStrip) and
 [VideoLoop](https://github.com/RumiCar-group/RumiCar-VideoLoop) published
 code, this one publishes **a way of doing things** — there is almost no
-code in it.
+code in it. A companion in the same spirit,
+[ReleaseNotes-Guide](https://github.com/RumiCar-group/RumiCar-ReleaseNotes-Guide),
+automates the leg before this one: publishing a GitHub Release becomes a
+paired JA/EN article — which then rides the pipeline described here.
 
 > **How to read this document**: it is the record of one setup that worked
 > as of August 2026, not a guarantee that it will work for you. The

@@ -11,6 +11,9 @@
 [PhotoStrip](https://github.com/RumiCar-group/RumiCar-PhotoStrip)・
 [VideoLoop](https://github.com/RumiCar-group/RumiCar-VideoLoop) がコードの
 公開だったのに対し、これは**やり方の公開**です。コードはほとんど出てきません。
+同じ思想の続編として、GitHub Release の公開から日英ペア記事を自動作成する
+[ReleaseNotes-Guide](https://github.com/RumiCar-group/RumiCar-ReleaseNotes-Guide)
+もあります(公開された記事は、本書のパイプラインにそのまま乗ります)。
 
 > **最初に読む位置づけの話**: 本書は 2026年8月時点で実際に動いた**一例の記録**
 > であり、動作の保証ではありません。登場するサービスの UI・API・料金は変わり
